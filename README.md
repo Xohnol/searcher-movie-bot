@@ -121,10 +121,6 @@ Want to improve the bot? PRs are welcome!
 4. Push to branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## 📜 **License**
-
-This project is under MIT license. See the [LICENSE](LICENSE) file for details.
-
 ## 🔗 **Useful links**
 
 - 📖 [Telegram Bot API Documentation](https://core.telegram.org/bots/api)
@@ -134,5 +130,3 @@ This project is under MIT license. See the [LICENSE](LICENSE) file for details.
 ---
 
 ### ⭐ **Like the project? Leave a star!**
-
-**Made with ❤️ for movie lovers**
